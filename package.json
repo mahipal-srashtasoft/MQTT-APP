@@ -4,9 +4,12 @@
   "private": true,
   "dependencies": {
     "cra-template": "1.2.0",
+    "mqtt": "^5.10.3",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
-    "react-scripts": "5.0.1"
+    "react-scripts": "5.0.1",
+    "recharts": "^2.15.1",
+    "web-vitals": "^4.2.4"
   },
   "scripts": {
     "start": "react-scripts start",
