@@ -7,7 +7,6 @@
     "mqtt": "^5.10.3",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
-    "react-scripts": "5.0.1",
     "recharts": "^2.15.1",
     "web-vitals": "^4.2.4"
   },
@@ -37,6 +36,7 @@
   },
   "devDependencies": {
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
-    "eslint": "^9.21.0"
+    "eslint": "^9.21.0",
+    "react-scripts": "^5.0.1"
   }
 }
